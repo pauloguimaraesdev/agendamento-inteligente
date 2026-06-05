@@ -1,5 +1,8 @@
 # 🤖 Agendamento Inteligente com n8n + Gemini + Google Calendar
 
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/a7cd195c-9133-4fb7-8d6d-04978dcc1fad" />
+
+
 Sistema de agendamento inteligente desenvolvido com n8n, Google Gemini e Google Calendar.
 
 O fluxo interpreta solicitações em linguagem natural, extrai informações estruturadas, verifica disponibilidade na agenda e cria eventos automaticamente.
